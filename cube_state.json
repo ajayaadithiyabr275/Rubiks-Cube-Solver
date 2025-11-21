@@ -1,0 +1,29 @@
+{
+  "solution": "U2 R F B2 U2 F' D' R' U L' D2 F' D2 F2 B2 U' L2 D R2 U F2 L2",
+  "move_index": 22,
+  "total_moves": 22,
+  "expanded_moves": [
+    "U2",
+    "R",
+    "F",
+    "B2",
+    "U2",
+    "F'",
+    "D'",
+    "R'",
+    "U",
+    "L'",
+    "D2",
+    "F'",
+    "D2",
+    "F2",
+    "B2",
+    "U'",
+    "L2",
+    "D",
+    "R2",
+    "U",
+    "F2",
+    "L2"
+  ]
+}
